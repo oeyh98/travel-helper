@@ -1,7 +1,11 @@
 # server
 
+### 기술 스택
+```
+express
+javascript
+```
 ### 폴더 구조
-
 ```
 📂git/travle-helper/server
   ┣📂 src
